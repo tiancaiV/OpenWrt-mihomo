@@ -1,0 +1,1 @@
+{"architecture": "arm_cortex-a7_neon-vfpv4", "packages":{"luci-app-mihomo": "1.10.0-r1", "luci-i18n-mihomo-zh-cn": "24.314.37339~99583b3", "mihomo": "2024.11.05~ce52c343-r2"}}
